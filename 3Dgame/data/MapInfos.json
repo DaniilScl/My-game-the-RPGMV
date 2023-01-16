@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Класс в школе","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"Школьный зал","order":2,"parentId":1,"scrollX":451,"scrollY":511.5},
+{"id":3,"expanded":true,"name":"Хоррор заготовка класса ","order":3,"parentId":0,"scrollX":451,"scrollY":408.5},
+{"id":4,"expanded":false,"name":"Хоррор заготовка зала","order":4,"parentId":3,"scrollX":1192,"scrollY":408.5},
+{"id":5,"expanded":true,"name":"Дом 1","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"Тест плагинов и т.д","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"Дамба","order":6,"parentId":5,"scrollX":451,"scrollY":1519.5}
+]
